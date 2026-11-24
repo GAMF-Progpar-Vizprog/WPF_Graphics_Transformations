@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using System.Windows.Media;
 
-namespace WPFTransformations
+namespace WPF_Graphics_Transformations
 {
 	
 	public partial class MainWindow : Window

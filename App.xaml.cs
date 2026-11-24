@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace WPFTransformations
+namespace WPF_Graphics_Transformations
 {
 	/// <summary>
 	/// Interaction logic for App.xaml
